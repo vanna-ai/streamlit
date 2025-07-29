@@ -2,6 +2,14 @@
 
 A comprehensive Streamlit application for exploring all response types from the Vanna AI API in a single, unified interface.
 
+## Demo
+
+See the app in action:
+
+[![Vanna Streamlit Demo](https://img.youtube.com/vi/VznG45f-aYM/0.jpg)](https://www.youtube.com/watch?v=VznG45f-aYM)
+
+*Click the thumbnail above to watch a demo of the Vanna Streamlit Response Viewer*
+
 ## Features
 
 - **Multi-Response Type Support**: Handles all Vanna response types including:
